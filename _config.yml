@@ -1,14 +1,15 @@
 title: Ajeya Krishna # your name (or website title) here
-logo: "/images/IMG_20200916_003646.jpg" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+logo: "/images/IMG_20200916_003646.jpg"
+description: >
+  Final Year UG || IIT Ropar, Btech in Electrical Engineering with minor in Computer Science.
+  <br>
+  Primarily interested in Machine Learning and Software Development.
+  <br>
   <a href="https://prudhvipvp.github.io/pdf/Resume_Ajeya_Krishna(1) (1) (1).pdf">View My Resume</a>
   <br>
   <a href="https://www.linkedin.com/in/ajeya-krishna12/">View My LinkedIn Profile</a> 
   <br>
-  <a href="https://github.com/predator-1-ml">View my Github Profile
+  <a href="https://github.com/predator-1-ml/">View my Github Profile
   
-
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
