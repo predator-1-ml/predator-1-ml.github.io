@@ -65,10 +65,11 @@ Research Intern
 - [ Cascade Cup ](/pdf/IITG_hackathon.pdf)
 <br>
     Finished in Top 80 from 2500 participants which is jointly organized by Trell and IIT Guwahati.
+<br>
 - [ ZS Campus Beats]
-
+<br>
 -[ Data Wiz]
-
+<br>
 
 ### SKILLS-
 <br>
