@@ -4,7 +4,7 @@
 
 ### Work Experience 
 
-[National Taipei University of Technology](/pdf/Intern.jpeg)
+[Datalogy](/pdf/Internship.pdf)
 <br>
  Intern
  <br>
@@ -19,7 +19,7 @@ charge status of the vehicle. Linear Programming with the GLPK library was used 
 <br>
 
 ---
-[Monash University](/pdf/Prudhvi_Letter.pdf)
+[JNCASR Bangalore ](/pdf/Prudhvi_Letter.pdf)
 <br>
 Research Intern
 <br>
@@ -61,6 +61,14 @@ Research Intern
 <br>
 
 ---
+### COMPETITIONS
+- [ Cascade Cup ](/pdf/IITG_hackathon.pdf)
+<br>
+    Finished in Top 80 from 2500 participants which is jointly organized by Trell and IIT Guwahati.
+- [ ZS Campus Beats]
+
+-[ Data Wiz]
+
 
 ### SKILLS-
 <br>
