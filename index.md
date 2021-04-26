@@ -22,14 +22,13 @@
 <br>
 Research Intern
 <br>
-• Worked on a Research Project in Virtual Reality(VR) under Dr Jarrod Knibbe to predict pointing behaviour during room-scale target selection.
+• Worked on a Statistical Mechanics problem using computer simulation with Python, Jupyter Notebook under professor Subir K Das.
 <br>
-• The working prototype consisted of 27 targets in 3D Virtual Space and users were asked to point those targets.
+• Wrote a Scientific Model to efficiently predict the phase separation mechanism of a mixture when quenched to a low temperature using Mean Field Approximation of Ising Models to perform this task.
 <br>
-• Developed an SVM model to predict/early predict the target in real-time, given the coordinates of the index finger during the flight.
+• Achieved two phase separation mechanisms Spinodal Decomposition and Nucleation and employed Monte Carlo Algorithm to attain better results. 
 <br>
-• Using these prediction models, we aim to better understand how users point in Virtual Reality and facilitate early target prediction.
-<br>
+
 
 ### PROJECTS
 
