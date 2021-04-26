@@ -34,8 +34,7 @@ Research Intern
 
 - [Unpaired Image to Image Translation with Pix2Pix Generative Adversarial Networks](https://github.com/predator-1-ml/Pix2Pix)
 <br>
-    • The Pix2PixCGAN was built using U-Net architercure, 30x30 patch GAN architecture. This CGAN converts raw satellite images to goolge map style images.
-     
+    The Pix2PixCGAN was built using U-Net architercure, 30x30 patch GAN architecture. This CGAN converts raw satellite images to goolge map style images.
 <br>
 - [Review Classification of Amazon Fine Food using Decision Tree and Random Forest](https://github.com/Prudhvipvp/Decision-Trees-and-Random-Forests)
 <br>
@@ -44,6 +43,10 @@ Research Intern
 - [Image captioning with Attention](https://github.com/predator-1-ml/Image-Captioning-using-attention)
 <br>
      Implemented a encoder-decoder sequence to sequence model with Bahdanau's attention for translation of Spanish sentences to English sentences.
+<br>
+- [Generative Chat bot](https://github.com/predator-1-ml/Generative-Chat-bot)
+<br>
+     Developed a chat bot which generates output from the input text. Graphical user interface was built using tkinter library in python.
 <br>
 - [Art generation using Neural Style Transfer](https://github.com/predator-1-ml/Art-generation-)
 <br>
