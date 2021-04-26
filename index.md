@@ -65,11 +65,14 @@ Research Intern
 <br>
     Finished in Top 80 from 2500 participants which is jointly organized by Trell and IIT Guwahati.
 <br>
-- [ ZS Campus Beats]
+- [ ZS Campus Beats ](/pdf/Scenario 1_Business Consulting_ZS Campus Beats 2021 Case Challenge(1).pdf)
 <br>
--[ Data Wiz]
+    Implemented different analytical technquies to gain inshights
 <br>
-
+- [ Data Wiz ](/pdf/Team-A_IIT(BHU).pdf)
+<br>
+    Finished in Top 10 from 500 participants
+<br>
 ### SKILLS-
 <br>
 C, C++, Python, SQL, HTML, CSS.
