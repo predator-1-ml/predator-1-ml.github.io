@@ -41,17 +41,20 @@ Research Intern
 <br>
      Decision Tree Classifier, Random Forest Classifier was learned and the least error model was chosen by testing the model with varying hyperparameters.
 <br>
-- [Neural Machine Translation with Attention](https://github.com/Prudhvipvp/Neural-Machine-Translation)
+- [Image captioning with Attention](https://github.com/predator-1-ml/Image-Captioning-using-attention)
 <br>
      Implemented a encoder-decoder sequence to sequence model with Bahdanau's attention for translation of Spanish sentences to English sentences.
 <br>
-- [Other Projects](https://github.com/Prudhvipvp/Other-Projects)
+- [Art generation using Neural Style Transfer](https://github.com/predator-1-ml/Art-generation-)
 <br>
-     1. Built a feed forward neural network (2 Hidden Layered) from scratch to classifiy the MNIST handwritten digits dataset.
+     The pretrained VGG19 model was used. The NST algorithm is used to transform content pictures into well-known art images.
 <br>
-     2. Built a Canny Edge Detector from scratch in python to detect wide range of edges in images.
+- [Other Projects]
 <br>
-     3. Implemented a deep neural network for traffic sign classification with an accuracy of 95 percent.
+     1. Built a deep convolution neural network from scratch to classifiy the MNIST handwritten digits dataset.
+
+<br>
+     2. Implemented a deep neural network for traffic sign classification with an accuracy of 95 percent.
 <br>
 
 ---
