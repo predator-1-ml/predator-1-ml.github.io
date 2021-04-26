@@ -52,10 +52,9 @@ Research Intern
 <br>
      The pretrained VGG19 model was used. The NST algorithm is used to transform content pictures into well-known art images.
 <br>
-- [Other Projects]
+- [Other Projects](https://github.com/predator-1-ml/RecnozingHandDigits)
 <br>
      1. Built a deep convolution neural network from scratch to classifiy the MNIST handwritten digits dataset.
-
 <br>
      2. Implemented a deep neural network for traffic sign classification with an accuracy of 95 percent.
 <br>
