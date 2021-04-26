@@ -8,14 +8,13 @@
 <br>
  Intern
  <br>
-• Worked on a Large Parking Station Management System for the China Motor Corporation(CMC) under professor Leehter Yao.
+• Worked with real-world data from the company to predict the performances of various courses offered by company.
 <br>
-• Wrote a program to efficiently schedule the charging interval of a vehicle in the parking lot based on its departure time and current battery
-charge status of the vehicle. Linear Programming with the GLPK library was used to perform this task.
+• To gain insights, I used a variety of data exploration techniques using scipy,pandas,numpy,seaborn,matplotlib libraries in python.
 <br>
-• Designed a website application that shows the status of the Parking lot(Number of Vehicles, their current Battery Charge etc).
+• Different classification and regression machine learning techniques were implemented with optimization using sklearn library .
 <br>
-• Worked on CANBUS to enable the communication between the Battery management system and the charge management system.
+• Extracted useful insights from raw data and assisted the company with their client targeting and products .
 <br>
 
 ---
