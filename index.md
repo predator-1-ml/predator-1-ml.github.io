@@ -73,6 +73,9 @@ Research Intern
 <br>
     Finished in Top 10 from 500 participants
 <br>
-### SKILLS-
+
+
+---
+### SKILLS
 <br>
 C, C++, Python, SQL, HTML, CSS.
