@@ -34,11 +34,8 @@ Research Intern
 
 - [Unpaired Image to Image Translation with Pix2Pix Generative Adversarial Networks](https://github.com/predator-1-ml/Pix2Pix)
 <br>
-    • The Pix2PixGAN was used to convert satellite images to Google Maps type images.
+    • The Pix2PixCGAN was built using U-Net architercure, 30x30 patch GAN architecture. This CGAN converts raw satellite images to goolge map style images.
      
-    • The generator is based on a U-Net architecture with decoder and encoder, and the discriminator is based on a 30*30 Patch GAN architecture. In the generator, there were skip connections between encoder and decoder.Batch normalisation was used in this study.
-    
-    • The model is optimized using Mean Squared Error, Sigmoid Cross Entropy loss functions for the generator, and the sum of Sigmoid Cross Entropy losses for the discriminator.The model has been trained for 200 epochs, and the results are very good
 <br>
 - [Review Classification of Amazon Fine Food using Decision Tree and Random Forest](https://github.com/Prudhvipvp/Decision-Trees-and-Random-Forests)
 <br>
