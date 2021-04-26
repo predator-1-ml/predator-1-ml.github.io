@@ -29,6 +29,7 @@ Research Intern
 • Achieved two phase separation mechanisms Spinodal Decomposition and Nucleation and employed Monte Carlo Algorithm to attain better performance. 
 <br>
 
+---
 
 ### PROJECTS
 
