@@ -22,11 +22,11 @@
 <br>
 Research Intern
 <br>
-• Worked on a Statistical Mechanics problem using computer simulation with Python, Jupyter Notebook under professor Subir K Das.
+• Worked on a Statistical Mechanics problem using scipy,numpy,pandas,matplotlib libraries in Python under professor Subir K Das.
 <br>
-• Wrote a Scientific Model to efficiently predict the phase separation mechanism of a mixture when quenched to a low temperature using Mean Field Approximation of Ising Models to perform this task.
+• Wrote a Scientific Model to efficiently predict the phase separation mechanism of a mixture when quenched to a low temperature using Mean Field Approximation of Ising Models.
 <br>
-• Achieved two phase separation mechanisms Spinodal Decomposition and Nucleation and employed Monte Carlo Algorithm to attain better results. 
+• Achieved two phase separation mechanisms Spinodal Decomposition and Nucleation and employed Monte Carlo Algorithm to attain better performance. 
 <br>
 
 
