@@ -6,7 +6,7 @@
 
 [Datalogy](/pdf/Internship.pdf)
 <br>
- **Intern**
+ *Intern*
  <br>
 • Worked with real-world data from the company to predict the performances of various courses offered by company.
 <br>
@@ -20,7 +20,7 @@
 ---
 [JNCASR Bangalore ](/pdf/Prudhvi_Letter.pdf)
 <br>
-**Research Intern**
+*Research Intern*
 <br>
 • Worked on a Statistical Mechanics problem using scipy,numpy,pandas,matplotlib libraries in Python under professor Subir K Das.
 <br>
@@ -31,9 +31,9 @@
 
 ---
 
-[Shreyansh Singh LLC](/pdf/
+[Shreyansh Singh LLC](/pdf/Internship Cerificate.png)
 <br>
-**Marketing Intern** 
+*Marketing Intern* 
 <br>
 •  Assisted with the setup and management of client presence on social sites including Facebook, and other similar platforms.
 <br>
