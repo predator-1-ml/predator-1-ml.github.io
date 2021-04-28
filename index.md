@@ -31,6 +31,19 @@ Research Intern
 
 ---
 
+[Shreyansh Singh LLC](/pdf/
+<br>
+Marketing Intern 
+<br>
+•  Assisted with the setup and management of client presence on social sites including Facebook, and other similar platforms.
+<br>
+•  Brainstormed ideas for new ways to engage and reach consumers.
+<br>
+•  Increased number of Facebook followers by 200% over 1 month period with teammates.
+<br>
+
+---
+
 ### PROJECTS
 
 - [Unpaired Image to Image Translation with Pix2Pix Generative Adversarial Networks](https://github.com/predator-1-ml/Pix2Pix)
