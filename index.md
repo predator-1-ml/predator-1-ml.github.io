@@ -31,7 +31,7 @@
 
 ---
 
-[Shreyansh Singh LLC](/pdf/Internship Cerificate.png)
+[Shreyansh Singh LLC](/pdf/Internship_Cerificate.png)
 <br>
 *Marketing Intern* 
 <br>
