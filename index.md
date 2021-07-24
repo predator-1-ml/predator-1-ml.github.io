@@ -3,6 +3,20 @@
 ---
 
 ### Work Experience 
+[Deep Learning Intern | IIT BHU]
+<br>
+*Intern*
+<br>
+* Developed a deep learning model for predicting Covid cases and segmentation of the Covid region.
+<br>
+* Employed Transfer Learning technique to extract features from pre-trained networks like ResNet50,InceptionResNetV2, and EfficientNet.
+<br>
+* Adapted different classification algorithms such as SVC, Random Forest, XGBoost, Neural Network.
+<br>
+* Used data set of more than 10,000 pictures and obtained 99.9% accuracy with X-ray images and99.4% with CT scans. The Covid region in the lungs was segmented with a 94% accuracy rate.
+<br>
+
+---
 
 [Datalogy](/pdf/Internship.pdf)
 <br>
