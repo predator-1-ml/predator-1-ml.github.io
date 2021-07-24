@@ -3,7 +3,7 @@
 ---
 
 ### Work Experience 
-** Deep Learning Intern | IIT BHU **
+**Deep Learning Intern | IIT BHU**
 <br>
 *Intern*
 <br>
