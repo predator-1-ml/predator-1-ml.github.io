@@ -13,7 +13,7 @@
 <br>
 • Adapted different classification algorithms such as SVC, Random Forest, XGBoost, Neural Network.
 <br>
-• Used data set of more than 10,000 pictures and obtained 99.9% accuracy with X-ray images and99.4% with CT scans. The Covid region in the lungs was segmented with a 94% accuracy rate.
+• Used data set of more than 10,000 pictures and obtained 99.9% accuracy with X-ray images and 99.4% with CT scans. The Covid region in the lungs was segmented with a 75% accuracy rate.
 <br>
 
 ---
