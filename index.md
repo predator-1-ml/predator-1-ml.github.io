@@ -22,13 +22,14 @@
 <br>
  *Intern*
  <br>
-• Worked with real-world data from the company to predict the performances of various courses offered by company.
+• Assisted the firm with Customer Targeting and Marketing using the insights extracted from the data.
 <br>
-• To gain insights, I used a variety of data exploration techniques using scipy,pandas,numpy,seaborn,matplotlib libraries in python.
+• Performed an in-depth exploratory data analysis in Python using the NumPy, Pandas and Seaborn packages to discover the major characteristics impacting the product.
 <br>
-• Different classification and regression machine learning techniques were implemented with optimization using sklearn library .
+• Deployed several ML models like Linear regression, CART to predict the sustainability of the product.
+
 <br>
-• Extracted useful insights from raw data and assisted the company with their client targeting and products .
+• The company has experienced a 25% increase in customers using the insights.
 <br>
 
 ---
