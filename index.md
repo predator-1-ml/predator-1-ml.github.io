@@ -15,6 +15,7 @@
 <br>
 • Used data set of more than 10,000 pictures and obtained 99.9% accuracy with X-ray images and 99.4% with CT scans. The Covid region in the lungs was segmented with a 75% accuracy rate.
 <br>
+• The model has a greater recall and precision than the current RT-PCR test in predicting covid cases.
 
 ---
 
@@ -27,7 +28,6 @@
 • Performed an in-depth exploratory data analysis in Python using the NumPy, Pandas and Seaborn packages to discover the major characteristics impacting the product.
 <br>
 • Deployed several ML models like Linear regression, CART to predict the sustainability of the product.
-
 <br>
 • The company has experienced a 25% increase in customers using the insights.
 <br>
