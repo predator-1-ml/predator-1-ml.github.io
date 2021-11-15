@@ -96,6 +96,7 @@
 <br>
      2. In the Active Model B, we included inhomogeneous activity. This yielded excellent findings that may be used to a variety of applications, including drug delivery and bacterial migration.
 <br>
+
 ---
 
 ### COMPETITIONS
