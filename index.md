@@ -97,6 +97,7 @@
      2. We introduced inhomogeneous activity to the Active Model B. This resulted in great results which can be used in various fields like drug delivery, understanding bacteria movement.
 <br>
 ---
+
 ### COMPETITIONS
 - [ Cascade Cup ](/pdf/IITG_hackathon.pdf)
 <br>
