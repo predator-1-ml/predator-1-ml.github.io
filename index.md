@@ -99,6 +99,12 @@
 
 ---
 
+---
+### Courses
+- [Business Statistics and Analysis Specialization](/pdf/Excel_specialization_.pdf)
+
+---
+
 ### COMPETITIONS
 - [ Cascade Cup ](/pdf/IITG_hackathon.pdf)
 <br>
