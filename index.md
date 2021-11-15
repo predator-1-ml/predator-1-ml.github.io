@@ -92,7 +92,10 @@
 ### PUBLICATIONS 
 -[Inhomogeneous activity enhances density phase separation in active model B](https://www.tandfonline.com/doi/full/10.1080/1539445X.2021.1933030)
 <br>
-    1.  Built Statistical Model to study the dynamics of particles using various packages in Python like Numpy, Pandas, Matplotlib.
+     1. Built Statistical Model to study the dynamics of particles using various packages in Python like Numpy, Pandas, Matplotlib.
+<br>
+     2. We introduced inhomogeneous activity to the Active Model B. This resulted in great results which can be used in various fields like drug delivery, understanding bacteria movement.
+<br>
 ---
 ### COMPETITIONS
 - [ Cascade Cup ](/pdf/IITG_hackathon.pdf)
