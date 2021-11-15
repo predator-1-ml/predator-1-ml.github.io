@@ -94,7 +94,7 @@
 <br>
      1. Built Statistical Model to study the dynamics of particles using various packages in Python like Numpy, Pandas, Matplotlib.
 <br>
-     2. We introduced inhomogeneous activity to the Active Model B. This resulted in great results which can be used in various fields like drug delivery, understanding bacteria movement.
+     2. In the Active Model B, we included inhomogeneous activity. This yielded excellent findings that may be used to a variety of applications, including drug delivery and bacterial migration.
 <br>
 ---
 
