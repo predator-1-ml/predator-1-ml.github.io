@@ -101,7 +101,11 @@
 
 ---
 ### Courses
-- [Business Statistics and Analysis Specialization](/pdf/Excel_specialization_.pdf)
+- [Business Statistics and Analysis Specialization](/pdf/Excel_specialization_.pdf) - Rice University - Coursera
+- [Deep Learning Specialization](/pdf/Deep_Learning_specilization.pdf) - Deep Learning.ai - Coursera
+- [Machine Learning](/pdf/Machine_Learning_coursera.pdf) - Stanford University - Coursera
+- [Tableau for Data Science](/pdf/Tableau_data_science.pdf) - Udemy
+- [Python Developer Course](/pdf/Python_course.pdf) - Udemy
 
 ---
 
