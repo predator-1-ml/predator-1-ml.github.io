@@ -100,7 +100,7 @@
 ---
 
 ---
-### Courses
+### COURSES
 - [Business Statistics and Analysis Specialization](/pdf/Excel_specialization_.pdf) - Rice University - Coursera
 - [Deep Learning Specialization](/pdf/Deep_Learning_specilization.pdf) - Deep Learning.ai - Coursera
 - [Machine Learning](/pdf/Machine_Learning_coursera.pdf) - Stanford University - Coursera
