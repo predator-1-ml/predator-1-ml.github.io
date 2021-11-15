@@ -37,7 +37,7 @@
 <br>
 *Research Intern*
 <br>
-• Worked on a Statistical Mechanics problem using scipy,numpy,pandas,matplotlib libraries in Python under professor Subir K Das.
+• Worked on a Statistical Mechanics problem using scipy, numpy, pandas, matplotlib libraries in Python under professor Subir K Das.
 <br>
 • Wrote a Scientific Model to efficiently predict the phase separation mechanism of a mixture when quenched to a low temperature using Mean Field Approximation of Ising Models.
 <br>
