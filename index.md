@@ -10,24 +10,17 @@ SAAS LABS | Machine Learning Engineer
 <br>
 June 2022 - Present | Bangalore, India
 <br>
-
 Integral Member of Transformative JustcallIQ Team:
 <br>
-
-•  As a Machine Learning Engineer at SAASLABS, played a vital role in transforming the JustcallIQ conversational intelligence platform, introducing innovative features, and driving a significant increase in revenue.
+•  As a Machine Learning Engineer at SAAS LABS, played a vital role in transforming the JustcallIQ conversational intelligence platform, introducing innovative features, and driving a significant increase in revenue.
 <br>
-
 •  Developed a robust data collection pipeline from scratch, leveraging advanced technology stacks and custom Language Model Models (LLMs) to enhance machine learning operations and platform capabilities.
 <br>
-
-•  Implemented AI tools like SMSCo-pilot and Context-AI, resulting in a 100% increase in customer engagement and improved workflows for customer-facing agents.
+•  Implemented AI tools like SMS Co-pilot and Context-AI, resulting in a 100% increase in customer engagement and improved workflows for customer-facing agents.
 <br>
-
 •  Achieved a 75% reduction in admin review duration through the integration of conversational intelligence products.
 <br>
-
 •  Enhanced communication quality by aligning client scripts with industry standards through the development of a Script Matching and Generation tool.
-
 <br>
 
 ---
