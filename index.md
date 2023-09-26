@@ -4,9 +4,31 @@
 
 ### Work Experience 
 
+---
+
+SAAS LABS | Machine Learning Engineer | June 2022 - Present | Bangalore, India
+<br>
+
+Integral Member of Transformative JustcallIQ Team:
+
+-  As a Machine Learning Engineer at SAASLABS, played a vital role in transforming the JustcallIQ conversational intelligence platform, introducing innovative features, and driving a significant increase in revenue.
+
+-  Developed a robust data collection pipeline from scratch, leveraging advanced technology stacks and custom Language Model Models (LLMs) to enhance machine learning operations and platform capabilities.
+
+-  Implemented AI tools like SMSCo-pilot and Context-AI, resulting in a 100% increase in customer engagement and improved workflows for customer-facing agents.
+
+-  Achieved a 75% reduction in admin review duration through the integration of conversational intelligence products.
+
+-  Enhanced communication quality by aligning client scripts with industry standards through the development of a Script Matching and Generation tool.
+
+<br>
 
 ---
 
+[SAAS LABS](pdf/SaaS_Labs_ML_Intern.pdf) | Machine Learning Intern | Jan 2022 - June 2022 | Noida, India
+
+
+---
 **[Deep Learning Intern](pdf/Deep_Learning_Intern.pdf) | Guide Prof Dr.S.K.Singh | IIT BHU**
 <br>
 *Intern*
@@ -23,7 +45,7 @@
 
 ---
 
-**Statistical Physics Data Analyst and Modeling Specialist** | Guide Prof Dr.Shraddha Mishra | IIT BHU 
+**Statistical Physics Data Analyst** | Guide Prof Dr.Shraddha Mishra | IIT BHU 
 <br>
 *Lab Member*
 <br>
