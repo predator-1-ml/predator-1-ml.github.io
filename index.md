@@ -8,7 +8,8 @@
 
 SAAS LABS | Machine Learning Engineer 
 <br>
-June 2022 - Present | Bangalore, India
+*June 2022 - Present | Bangalore, India*
+<br>
 <br>
 Integral Member of Transformative JustcallIQ Team:
 <br>
