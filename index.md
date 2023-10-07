@@ -172,4 +172,8 @@ Jan 2022 - June 2022 | Noida, India
 ---
 ### SKILLS
 <br>
-C, C++, Python, SQL, HTML, CSS.
+Natural Language Processing -  Langchain, OpenAI, PyTorch, Transformers, GPT, VectorDB, Haystack
+<br>
+Python Libraries - NumPy, Pandas, Matplotlib, Seaborn, Sklearn, SciPy, Flask, JWT, FastAPI
+<br>
+Infrastructure and - Tools Docker, Git, Kubernetes, GCP, Sentry, MongoDB, VM, Redis, Grafana
