@@ -146,6 +146,7 @@ Jan 2022 - June 2022 | Noida, India
 
 ---
 ### COURSES
+- [MLOps Specialization](/pdf/Mlops_certi.pdf) - Deep Learning.ai - Coursera
 - [Business Statistics and Analysis Specialization](/pdf/Excel_specialization_.pdf) - Rice University - Coursera
 - [Deep Learning Specialization](/pdf/Deep_Learning_specilization.pdf) - Deep Learning.ai - Coursera
 - [Machine Learning](/pdf/Machine_Learning_coursera.pdf) - Stanford University - Coursera
