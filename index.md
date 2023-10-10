@@ -32,7 +32,7 @@ Jan 2022 - June 2022 | Noida, India
 
 
 ---
-**[Deep Learning Intern](pdf/Deep_Learning_Intern.pdf) | Guide Prof Dr.S.K.Singh | IIT BHU**
+**[Deep Learning Intern](pdf/Deep_Learning_Report_latest.pdf) | Guide Prof Dr.S.K.Singh | IIT BHU**
 <br>
 *Intern*
 <br>
